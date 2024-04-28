@@ -2,16 +2,10 @@
 
 namespace SearchService;
 
-public class AuctionServiceHttpClient
+public class AuctionServiceHttpClient(HttpClient httpClient, IConfiguration configuration)
 {
-    private readonly HttpClient _httpClient;
-    private readonly IConfiguration _configuration;
-
-    public AuctionServiceHttpClient(HttpClient httpClient, IConfiguration configuration)
-    {   
-        this._configuration = configuration;
-        this._httpClient = httpClient;
-    }
+    private readonly HttpClient _httpClient = httpClient;
+    private readonly IConfiguration _configuration = configuration;
 
     public async Task<List<Item>> GetItemForSearchDb()
     {

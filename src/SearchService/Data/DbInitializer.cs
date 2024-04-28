@@ -24,7 +24,7 @@ public class DbInitializer
 
         var items = await httpClient.GetItemForSearchDb();
 
-        Console.WriteLine(items.Count + " returner from database");
+        Console.WriteLine(items.Count + " returned from database");
 
         if(items.Count > 0) await DB.SaveAsync(items);
     }

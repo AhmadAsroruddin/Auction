@@ -88,3 +88,6 @@ C:/Users/Lenovo/Documents/Dotnet/Auction/src/SearchService/obj/Debug/net8.0/ref/
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/SearchService/obj/Debug/net8.0/ref/SearchService.dll
 C:/Users/Lenovo/Documents/Dotnet/Auction/src/SearchService/bin/Debug/net8.0/Data/auctions.json
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/SearchService/bin/Debug/net8.0/Data/auctions.json
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/SearchService/bin/Debug/net8.0/Microsoft.Extensions.Http.Polly.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/SearchService/bin/Debug/net8.0/Polly.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/SearchService/bin/Debug/net8.0/Polly.Extensions.Http.dll
