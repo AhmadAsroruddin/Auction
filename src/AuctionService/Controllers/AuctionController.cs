@@ -3,6 +3,8 @@ using AuctionService.DTOs;
 using AuctionService.Entities;
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
+using Contracts;
+using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,10 +16,12 @@ public class AuctionControllers : ControllerBase
 {
     private readonly IMapper _mapper;
     private readonly AuctionDbContext _context;
+    private readonly IPublishEndpoint _publishEndpoint;
 
-    public AuctionControllers(AuctionDbContext context, IMapper mapper){
+    public AuctionControllers(AuctionDbContext context, IMapper mapper, IPublishEndpoint publishEndpoint){
         _context = context;
         _mapper = mapper;
+        _publishEndpoint = publishEndpoint;
     }
 
     [HttpGet]
@@ -49,15 +53,18 @@ public class AuctionControllers : ControllerBase
         var auction = _mapper.Map<Auction>(createAuctionDto);
         auction.Seller = "test";
 
-        // No need for explicit Item mapping here (assuming no ItemDto in CreateAuctionDto)
-
         _context.Auctions.Add(auction);
 
         var result = await _context.SaveChangesAsync() > 0;
 
         if (!result) return BadRequest("Cannot create Auction");
 
-        return CreatedAtAction(nameof(GetAuctionById), new { auction.Id }, _mapper.Map<AuctionDto>(auction));
+        var newAuction = _mapper.Map<AuctionDto>(auction);
+
+        //PUBLISH TO SERVICE BUS
+        await _publishEndpoint.Publish(_mapper.Map<AuctionCreated>(newAuction));
+
+        return CreatedAtAction(nameof(GetAuctionById), new { auction.Id }, newAuction);
     }
 
     [HttpPut("{id}")]

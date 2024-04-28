@@ -202,3 +202,9 @@ C:/Users/Lenovo/Documents/Dotnet/Auction/src/AuctionService/obj/Debug/net8.0/Auc
 C:/Users/Lenovo/Documents/Dotnet/Auction/src/AuctionService/obj/Debug/net8.0/AuctionService.genruntimeconfig.cache
 C:/Users/Lenovo/Documents/Dotnet/Auction/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.sourcelink.json
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
