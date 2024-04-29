@@ -208,3 +208,4 @@ C:/Users/Lenovo/Documents/Dotnet/Auction/src/AuctionService/obj/Debug/net8.0/ref
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/RabbitMQ.Client.dll
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.dll
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll
