@@ -209,3 +209,11 @@ C:/Users/Lenovo/Documents/Dotnet/Auction/src/AuctionService/obj/Debug/net8.0/ref
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.dll
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ahmadasroruddin/Development/aspnet/Carsties/src/AuctionService/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
