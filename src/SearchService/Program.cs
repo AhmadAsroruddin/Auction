@@ -19,9 +19,33 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddMassTransit(x =>
 {
     x.AddConsumersFromNamespaceContaining<AuctionCreatedConsumer>();
+    x.AddConsumersFromNamespaceContaining<AuctionUpdatedConsumer>();
+    x.AddConsumersFromNamespaceContaining<AuctionDeteletedConsumer>();
+
     x.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("search", false)); //menambahkan di prefix karakter search dan memberi ('-')
+
     x.UsingRabbitMq((ctx, cfg) =>
     {
+        cfg.ReceiveEndpoint("search-auction-created", e =>
+        {
+            e.UseMessageRetry(r => r.Interval(5, 5));
+
+            e.ConfigureConsumer<AuctionCreatedConsumer>(ctx);
+        });
+
+        cfg.ReceiveEndpoint("search-auction-deleted", e =>
+        {
+            e.UseMessageRetry(r => r.Interval(5,5));
+
+            e.ConfigureConsumer<AuctionDeteletedConsumer>(ctx);
+        });
+
+        cfg.ReceiveEndpoint("search-auction-updated", e =>
+        {
+            e.UseMessageRetry(r => r.Interval(5,5));
+
+            e.ConfigureConsumer<AuctionUpdatedConsumer>(ctx);
+        });
         cfg.ConfigureEndpoints(ctx);
     });
 });
