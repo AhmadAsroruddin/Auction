@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/IdentityService/IdentityService.csproj": {}
+    "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/IdentityService.csproj": {}
   },
   "projects": {
-    "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/IdentityService/IdentityService.csproj": {
+    "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/IdentityService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/IdentityService/IdentityService.csproj",
+        "projectUniqueName": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/IdentityService.csproj",
         "projectName": "IdentityService",
-        "projectPath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/IdentityService/IdentityService.csproj",
+        "projectPath": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/IdentityService.csproj",
         "packagesPath": "/Users/ahmadasroruddin/.nuget/packages/",
-        "outputPath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/IdentityService/obj/",
+        "outputPath": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadasroruddin/.nuget/NuGet/NuGet.Config"

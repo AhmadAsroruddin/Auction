@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Hwj5OhCyM9tVMtNwDRpvPwwEu26GO9h+m0cFN1A+YcImS9OY6cmcnu0GXJZ2s1DXx/wJ9lp68x+N8bPb09sFg==",
+  "dgSpecHash": "rR4mkybKzh6r4Amy4HO4CKVEwSkcs0Wglp9QBUId8b/FKkITOZNBD287Gc7KW5tN3wiWutSFARheAzvxuLeyew==",
   "success": true,
-  "projectFilePath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/IdentityService/IdentityService.csproj",
+  "projectFilePath": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/IdentityService.csproj",
   "expectedPackageFiles": [
     "/Users/ahmadasroruddin/.nuget/packages/duende.identityserver/7.0.4/duende.identityserver.7.0.4.nupkg.sha512",
     "/Users/ahmadasroruddin/.nuget/packages/duende.identityserver.aspnetidentity/7.0.4/duende.identityserver.aspnetidentity.7.0.4.nupkg.sha512",

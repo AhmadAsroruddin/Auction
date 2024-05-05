@@ -21,6 +21,8 @@ builder.Services.AddMassTransit(x =>
     x.AddConsumersFromNamespaceContaining<AuctionCreatedConsumer>();
     x.AddConsumersFromNamespaceContaining<AuctionUpdatedConsumer>();
     x.AddConsumersFromNamespaceContaining<AuctionDeteletedConsumer>();
+    x.AddConsumersFromNamespaceContaining<AuctionFinishedConsumer>();
+    x.AddConsumersFromNamespaceContaining<BidPlacedConsumer>();
 
     x.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("search", false)); //menambahkan di prefix karakter search dan memberi ('-')
 
