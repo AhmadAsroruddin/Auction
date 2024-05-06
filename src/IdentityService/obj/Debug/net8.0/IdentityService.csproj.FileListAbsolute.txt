@@ -270,3 +270,4 @@
 /Users/ahmadasroruddin/Development/Auction/src/IdentityService/obj/Debug/net8.0/IdentityService.pdb
 /Users/ahmadasroruddin/Development/Auction/src/IdentityService/obj/Debug/net8.0/IdentityService.genruntimeconfig.cache
 /Users/ahmadasroruddin/Development/Auction/src/IdentityService/obj/Debug/net8.0/ref/IdentityService.dll
+/Users/ahmadasroruddin/Development/Auction/src/IdentityService/bin/Debug/net8.0/keys/is-signing-key-49B27E61EA20B6186A5D3B514674DFBB.json

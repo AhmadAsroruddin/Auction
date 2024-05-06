@@ -36,3 +36,4 @@
 /Users/ahmadasroruddin/Development/Auction/src/GatewayService/bin/Debug/net8.0/Yarp.ReverseProxy.dll
 /Users/ahmadasroruddin/Development/Auction/src/GatewayService/obj/Debug/net8.0/GatewayService.csproj.AssemblyReference.cache
 /Users/ahmadasroruddin/Development/Auction/src/GatewayService/obj/Debug/net8.0/GatewayS.B2235537.Up2Date
+/Users/ahmadasroruddin/Development/Auction/src/GatewayService/bin/Debug/net8.0/appsettings.Docker.json

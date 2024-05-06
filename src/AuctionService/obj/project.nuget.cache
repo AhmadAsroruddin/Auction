@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "97JngqaboO2HDBFiL0aHWoBHZavCPu5gEI8ru9/TLU2XWkY5Lf7AJx0wBW2dK3kX25hqv6vSy8OBxgKfs+eZYw==",
+  "dgSpecHash": "cCh92fwcRRiGesPkt/vlyWXDv9OZzxhQ1kFiKOwciEsLA/vy5PcGJFiMt096+UfhkVX3c5udy5u4BKVL8ibOkg==",
   "success": true,
   "projectFilePath": "/Users/ahmadasroruddin/Development/Auction/src/AuctionService/AuctionService.csproj",
   "expectedPackageFiles": [
