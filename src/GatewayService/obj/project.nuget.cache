@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "luZz5EhcnE3eFeHcdXJzJ5hQyCranH5Rwbtlr60yn3XWLtPSGXZwBSV+xzkdJuDarz/Kf3Hwz9Sk/pxhMd1NsQ==",
+  "dgSpecHash": "kSXq9lkDOc2JnnjRh4i8a3lLORDQQRk0r7x1xdc/VVEouE1odVCPuidFYaOxt/05Mp5EtMi8v1Bp6+lKUHspaw==",
   "success": true,
   "projectFilePath": "/Users/ahmadasroruddin/Development/Auction/src/GatewayService/GatewayService.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "/Users/ahmadasroruddin/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
     "/Users/ahmadasroruddin/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
     "/Users/ahmadasroruddin/.nuget/packages/system.io.hashing/7.0.0/system.io.hashing.7.0.0.nupkg.sha512",
-    "/Users/ahmadasroruddin/.nuget/packages/yarp.reverseproxy/2.1.0/yarp.reverseproxy.2.1.0.nupkg.sha512"
+    "/Users/ahmadasroruddin/.nuget/packages/yarp.reverseproxy/2.0.1/yarp.reverseproxy.2.0.1.nupkg.sha512"
   ],
   "logs": []
 }
