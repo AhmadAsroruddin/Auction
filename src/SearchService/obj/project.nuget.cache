@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmoiSvF/qi5w7FrYWjJNZu14oYYthsvdwbN1ckeLcAqBxxz+FMIauRGWdPXdn/u2IfGH6mEgOYa7Pa1x/3GLpw==",
+  "dgSpecHash": "Pb6hDnm3y05iGLX+cZ+Okh0EeWnodTiCZLkZIv2g3XuqDXVxuUKv0jm0BIBkKS4lctEkeWKc11P/ee6ZPrXuHg==",
   "success": true,
-  "projectFilePath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/SearchService/SearchService.csproj",
+  "projectFilePath": "/Users/ahmadasroruddin/Development/Auction/src/SearchService/SearchService.csproj",
   "expectedPackageFiles": [
     "/Users/ahmadasroruddin/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ahmadasroruddin/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

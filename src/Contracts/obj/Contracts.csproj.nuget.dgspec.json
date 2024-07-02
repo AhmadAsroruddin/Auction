@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/Contracts.csproj": {}
+    "/Users/ahmadasroruddin/Development/Auction/src/Contracts/Contracts.csproj": {}
   },
   "projects": {
-    "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/Contracts.csproj": {
+    "/Users/ahmadasroruddin/Development/Auction/src/Contracts/Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/Contracts.csproj",
+        "projectUniqueName": "/Users/ahmadasroruddin/Development/Auction/src/Contracts/Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/Contracts.csproj",
+        "projectPath": "/Users/ahmadasroruddin/Development/Auction/src/Contracts/Contracts.csproj",
         "packagesPath": "/Users/ahmadasroruddin/.nuget/packages/",
-        "outputPath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/obj/",
+        "outputPath": "/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadasroruddin/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

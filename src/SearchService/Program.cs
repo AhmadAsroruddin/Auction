@@ -21,11 +21,23 @@ builder.Services.AddMassTransit(x =>
     x.AddConsumersFromNamespaceContaining<AuctionCreatedConsumer>();
     x.AddConsumersFromNamespaceContaining<AuctionUpdatedConsumer>();
     x.AddConsumersFromNamespaceContaining<AuctionDeteletedConsumer>();
+    x.AddConsumersFromNamespaceContaining<AuctionFinishedConsumer>();
+    x.AddConsumersFromNamespaceContaining<BidPlacedConsumer>();
 
     x.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("search", false)); //menambahkan di prefix karakter search dan memberi ('-')
 
     x.UsingRabbitMq((ctx, cfg) =>
     {
+        cfg.Host(
+                builder.Configuration["RabbitMq:Host"],
+                "/",
+                host =>
+                {
+                    host.Username(builder.Configuration.GetValue("RabbitMq:Username", "guest"));
+                    host.Password(builder.Configuration.GetValue("RabbitMq:Password", "guest"));
+                }
+            );
+        
         cfg.ReceiveEndpoint("search-auction-created", e =>
         {
             e.UseMessageRetry(r => r.Interval(5, 5));
