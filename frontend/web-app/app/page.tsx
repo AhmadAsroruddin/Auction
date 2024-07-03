@@ -1,10 +1,9 @@
-import Image from "next/image";
-import Listing from './auctions/Listing';
+import Listings from "./auctions/Listings";
 
 export default function Home() {
   return (
-    <div className="p-10">
-      <Listing />
+    <div>
+      <Listings />
     </div>
   );
 }
