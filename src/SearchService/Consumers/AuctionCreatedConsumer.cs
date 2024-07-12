@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿ using AutoMapper;
 using Contracts;
 using MassTransit;
 using MongoDB.Entities;

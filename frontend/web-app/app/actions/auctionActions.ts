@@ -1,20 +1,21 @@
 'use server'
 
-import { Auction, Bid, PagedResult } from "@/types";
+import { Auction, PagedResult } from "@/types";
+import { getTokenWorkaround } from "./authActions";
 import { fetchWrapper } from "@/lib/fetchWrapper";
 import { FieldValues } from "react-hook-form";
 import { revalidatePath } from "next/cache";
 
 export async function getData(query: string): Promise<PagedResult<Auction>> {
-    return await fetchWrapper.get(`search${query}`);
+    return await fetchWrapper.get(`search/${query}`)
 }
 
-export async function updatedAuctionTest() {
+export async function updateAuctionTest() {
     const data = {
         mileage: Math.floor(Math.random() * 100000) + 1
     }
 
-    return await fetchWrapper.put('auctions/bbab4d5a-8565-48b1-9450-5ac2a5c4a654', data);
+    return await fetchWrapper.put('auctions/afbee524-5972-4075-8800-7d1f9d7b0a0c', data);
 }
 
 export async function createAuction(data: FieldValues) {
@@ -33,12 +34,4 @@ export async function updateAuction(data: FieldValues, id: string) {
 
 export async function deleteAuction(id: string) {
     return await fetchWrapper.del(`auctions/${id}`);
-}
-
-export async function getBidsForAuction(id: string): Promise<Bid[]> {
-    return await fetchWrapper.get(`bids/${id}`);
-}
-
-export async function placeBidForAuction(auctionId: string, amount: number) {
-    return await fetchWrapper.post(`bids?auctionId=${auctionId}&amount=${amount}`, {})
 }

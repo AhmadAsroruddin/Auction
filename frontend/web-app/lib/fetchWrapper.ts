@@ -1,22 +1,15 @@
 import { getTokenWorkaround } from "@/app/actions/authActions";
 
-const baseUrl = "http://localhost:6001/";
+const baseUrl = 'http://localhost:6001/';
 
 async function get(url: string) {
     const requestOptions = {
         method: 'GET',
-        headers: await getHeaders()
-    };
-
-    const fullUrl = `${baseUrl}${url}`;
-
-    try {
-        const response = await fetch(fullUrl, requestOptions);
-        return handleResponse(response); // Kirim objek respons langsung ke handleResponse
-    } catch (error) {
-        console.error('Error fetching data:', error);
-        throw error;
+        header: await getHeaders()
     }
+
+    const response = await fetch(baseUrl + url, requestOptions);
+    return await handleResponse(response);
 }
 
 async function post(url: string, body: {}) {
@@ -24,19 +17,9 @@ async function post(url: string, body: {}) {
         method: 'POST',
         headers: await getHeaders(),
         body: JSON.stringify(body)
-    };
-
-    const fullUrl = `${baseUrl}${url}`;
-    console.log(`Posting to URL: ${fullUrl}`); // Debugging: log URL
-
-    try {
-        const response = await fetch(fullUrl, requestOptions);
-        console.log('Raw response:', response); // Debugging: log raw response
-        return handleResponse(response);
-    } catch (error) {
-        console.error('Error posting data:', error);
-        throw error;
     }
+    const response = await fetch(baseUrl + url, requestOptions);
+    return await handleResponse(response);
 }
 
 async function put(url: string, body: {}) {
@@ -44,67 +27,42 @@ async function put(url: string, body: {}) {
         method: 'PUT',
         headers: await getHeaders(),
         body: JSON.stringify(body)
-    };
-
-    const fullUrl = `${baseUrl}${url}`;
-    console.log(`Putting to URL: ${fullUrl}`); // Debugging: log URL
-
-    try {
-        const response = await fetch(fullUrl, requestOptions);
-        console.log('Raw response:', response); // Debugging: log raw response
-        return handleResponse(response);
-    } catch (error) {
-        console.error('Error putting data:', error);
-        throw error;
     }
+    const response = await fetch(baseUrl + url, requestOptions);
+    return await handleResponse(response);
 }
 
 async function del(url: string) {
     const requestOptions = {
         method: 'DELETE',
         headers: await getHeaders()
-    };
-
-    const fullUrl = `${baseUrl}${url}`;
-    console.log(`Deleting URL: ${fullUrl}`); // Debugging: log URL
-
-    try {
-        const response = await fetch(fullUrl, requestOptions);
-        console.log('Raw response:', response); // Debugging: log raw response
-        return handleResponse(response);
-    } catch (error) {
-        console.error('Error deleting data:', error);
-        throw error;
     }
+    const response = await fetch(baseUrl + url, requestOptions);
+    return await handleResponse(response);
 }
 
 async function getHeaders() {
     const token = await getTokenWorkaround();
     const headers = { 'Content-type': 'application/json' } as any;
     if (token) {
-        headers.Authorization = 'Bearer ' + token.access_token;
+        headers.Authorization = 'Bearer ' + token.access_token
     }
     return headers;
 }
 
 async function handleResponse(response: Response) {
     const text = await response.text();
-
-    let data;
-    try {
-        data = JSON.parse(text);
-    } catch (error) {
-        data = text;
-    }
+    const data = text && JSON.parse(text);
 
     if (response.ok) {
         return data || response.statusText;
     } else {
         const error = {
             status: response.status,
-            message: typeof data === 'string' ? data : response.statusText
-        };
-        throw error; // Ubah dari return ke throw untuk melempar error
+            message: response.statusText
+        }
+        console.log(error);
+        return {error};
     }
 }
 
@@ -113,4 +71,5 @@ export const fetchWrapper = {
     post,
     put,
     del
-};
+}
+

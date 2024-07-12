@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import 'react-datepicker/dist/react-datepicker.css';
-
-@layer components {
-    .input-custom {
-        @apply flex-grow px-5 bg-transparent focus:outline-none border-transparent focus:border-transparent focus:ring-0
-    }
+.react-datepicker-wrapper {
+    width: 100%;
 }

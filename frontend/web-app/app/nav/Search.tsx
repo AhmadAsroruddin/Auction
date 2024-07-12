@@ -3,58 +3,50 @@
 import { useParamsStore } from '@/hooks/useParamsStore';
 import { usePathname, useRouter } from 'next/navigation';
 import React, { useState } from 'react'
-import { FaSearch } from 'react-icons/fa'
-import { FaArrowRotateLeft } from "react-icons/fa6";
+import { FaSearch } from 'react-icons/fa';
 
 export default function Search() {
     const router = useRouter();
     const pathname = usePathname();
-
     const setParams = useParamsStore(state => state.setParams);
-    const reset = useParamsStore(state => state.reset);
-    const [value, setValue] = useState('');
+    const setSearchValue = useParamsStore(state => state.setSearchValue);
+    const searchValue = useParamsStore(state => state.searchValue);
 
     function onChange(event: any) {
-        setValue(event.target.value);
+        setSearchValue(event.target.value);
     }
 
     function search() {
-        if (value === '') return;
         if (pathname !== '/') router.push('/');
-        setParams({searchTerm: value});
-    }
-
-    function resetSearch() {
-        reset();
-        setParams({searchTerm: ''});
-        setValue('');
+        setParams({searchTerm: searchValue});
     }
 
     return (
-        <div className='flex w-1/4 items-center border-2 rounded-full py-2 shadow-sm'>
-            <input 
-                onKeyDown={(e) => {
-                    if (e.key === 'Enter') {
-                        search();
-                    }
+        <div className='flex w-[50%] items-center border-2 rounded-full py-2 shadow-sm'>
+            <input
+                onKeyDown={(e: any) => {
+                    if (e.key === 'Enter') search();
                 }}
+                value={searchValue}
                 onChange={onChange}
-                type='text' 
-                className='input-custom text-sm text-gray-600' 
-                placeholder='Search for cars by make, model or colour...' 
-                value={value}
+                type="text"
+                placeholder='Search for cars by make, model or color'
+                className='
+                flex-grow
+                pl-5
+                bg-transparent
+                focus:outline-none
+                border-transparent
+                focus:border-transparent
+                focus:ring-0
+                text-sm
+                text-gray-600
+            '
             />
-            <button onClick={search} className='flex justify-end'>
-                <FaSearch 
-                    size={34} 
-                    className='bg-red-400 text-white rounded-full p-2 cursor-pointer hover:bg-red-500 ml-2'
-                />
-            </button>
-            <button onClick={resetSearch} className='flex justify-end'>
-                <FaArrowRotateLeft 
-                    size={34} 
-                    className='bg-red-400 text-white rounded-full p-2 cursor-pointer hover:bg-red-500 ml-1 mr-2'
-                />
+            <button onClick={search}>
+                <FaSearch
+                    size={34}
+                    className='bg-red-400 text-white rounded-full p-2 cursor-pointer mx-2' />
             </button>
         </div>
     )
