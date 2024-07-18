@@ -15,8 +15,12 @@ builder.Services.AddMassTransit(x=>
     x.UsingRabbitMq((context, cfg) =>
     {
         cfg.Host(builder.Configuration["RabbitMq:Host"], "/", host =>{
+#pragma warning disable CS8604 // Possible null reference argument.
             host.Username(builder.Configuration.GetValue("RabbitMq:Username", "guest"));
+#pragma warning restore CS8604 // Possible null reference argument.
+#pragma warning disable CS8604 // Possible null reference argument.
             host.Password(builder.Configuration.GetValue("RabbitMq:Password", "guest"));
+#pragma warning restore CS8604 // Possible null reference argument.
         });
         cfg.ConfigureEndpoints(context);
     });
@@ -31,6 +35,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 });
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+// builder.Services.AddHostedService<AuctionFinishedChecker>();
+
 var app = builder.Build();
 
 app.UseAuthorization();
