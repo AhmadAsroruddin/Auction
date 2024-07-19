@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcmgLa8TZOxQODcDCdGxJIEyZCHVCAYFqmdWHi52duwzh51bjbf8Rm8cdcN0sVUN/aWTHPBwf5r/kjeekx711g==",
+  "dgSpecHash": "J2IeiJa4NkVZrS1wStVPfNsk7p32sYzTOOC4f1PWeHNf7rIubByo/OKtyRGjn0pDRy8jJcsrJQU+wGtO50SBig==",
   "success": true,
-  "projectFilePath": "/Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

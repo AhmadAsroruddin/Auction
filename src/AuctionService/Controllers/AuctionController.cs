@@ -78,7 +78,7 @@ public class AuctionControllers : ControllerBase
 
         //TODO : CHECK SELLER == CURRENT USER
         if(auction.Seller != User.Identity.Name) return Forbid ();
-         
+        
         auction.Item.Make = updateAuctionDto.Make ?? auction.Item.Make;
         auction.Item.Model = updateAuctionDto.Model ?? auction.Item.Model;
         auction.Item.Color = updateAuctionDto.Color ?? auction.Item.Color;
