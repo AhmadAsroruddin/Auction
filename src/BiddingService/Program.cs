@@ -35,7 +35,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 });
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-// builder.Services.AddHostedService<AuctionFinishedChecker>();
+builder.Services.AddHostedService<AuctionFinishedChecker>();
+builder.Services.AddScoped<GrpcAuctionClient>();
 
 var app = builder.Build();
 

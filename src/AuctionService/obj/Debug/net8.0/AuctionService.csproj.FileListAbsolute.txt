@@ -334,3 +334,10 @@ C:/Users/Lenovo/Documents/Dotnet/Auction/src/AuctionService/obj/Debug/net8.0/ref
 /Users/ahmadasroruddin/Development/Auction/src/AuctionService/obj/Debug/net8.0/AuctionService.pdb
 /Users/ahmadasroruddin/Development/Auction/src/AuctionService/obj/Debug/net8.0/AuctionService.genruntimeconfig.cache
 /Users/ahmadasroruddin/Development/Auction/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Grpc.AspNetCore.Server.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Grpc.Core.Api.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Grpc.Net.Client.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Grpc.Net.ClientFactory.dll
+/Users/ahmadasroruddin/Development/Auction/src/AuctionService/bin/Debug/net8.0/Grpc.Net.Common.dll
