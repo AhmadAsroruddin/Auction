@@ -1,7 +1,5 @@
 using System.Net;
-using MassTransit;
-using MongoDB.Driver;
-using MongoDB.Entities;
+using MassTransit; 
 using Polly;
 using Polly.Extensions.Http;
 using SearchService;
@@ -61,6 +59,8 @@ builder.Services.AddMassTransit(x =>
         cfg.ConfigureEndpoints(ctx);
     });
 });
+
+
 var app = builder.Build();  
 
 // await DB.InitAsync("SearchDB", MongoClientSettings

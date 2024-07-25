@@ -62,3 +62,7 @@
 /Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/Contracts.pdb
 /Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/AutoMapper.dll
 /Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/Grpc.Core.Api.dll
+/Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/Grpc.Net.Client.dll
+/Users/ahmadasroruddin/Development/Auction/src/BiddingService/bin/Debug/net8.0/Grpc.Net.Common.dll
