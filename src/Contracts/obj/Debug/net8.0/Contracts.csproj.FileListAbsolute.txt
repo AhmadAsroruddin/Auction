@@ -10,6 +10,7 @@
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/obj/Debug/net8.0/refint/Contracts.dll
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/obj/Debug/net8.0/Contracts.pdb
 /Users/ahmadasroruddin/Development/aspnet/Carsties/src/Contracts/obj/Debug/net8.0/ref/Contracts.dll
+<<<<<<< HEAD
 C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\bin\Debug\net8.0\Contracts.deps.json
 C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\bin\Debug\net8.0\Contracts.dll
 C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\bin\Debug\net8.0\Contracts.pdb
@@ -22,3 +23,17 @@ C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\obj\Debug\net8.0\Contract
 C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\obj\Debug\net8.0\refint\Contracts.dll
 C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\obj\Debug\net8.0\Contracts.pdb
 C:\Users\Lenovo\Documents\Dotnet\Auction\src\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+=======
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/bin/Debug/net8.0/Contracts.deps.json
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/bin/Debug/net8.0/Contracts.dll
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/bin/Debug/net8.0/Contracts.pdb
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.sourcelink.json
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.dll
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/refint/Contracts.dll
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/Contracts.pdb
+/Users/ahmadasroruddin/Development/Auction/src/Contracts/obj/Debug/net8.0/ref/Contracts.dll
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412

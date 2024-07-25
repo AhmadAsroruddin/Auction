@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "MHJJGn9kOVa7e+spxgMP2hzymyhVV2v3hxm8IvyxOK8=",
+=======
+  "Hash": "qktB+vi31xZ6ABPorcKXxu0UyK7Wa5Rsjg+Vc0VvNdM=",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
   "Source": "IdentityService",
   "BasePath": "_content/IdentityService",
   "Mode": "Default",
@@ -10,7 +14,11 @@
     {
       "Name": "IdentityService\\wwwroot",
       "Source": "IdentityService",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "Pattern": "**"
     }
@@ -1157,10 +1165,17 @@
       "OriginalItemSpec": "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.3\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\css\\site.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/css/site.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1176,10 +1191,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\css\\site.min.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/css/site.min.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -1195,10 +1217,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\css\\site.scss",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/css/site.scss",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -1214,10 +1243,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\duende-logo.svg",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/duende-logo.svg",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "duende-logo.svg",
       "AssetKind": "All",
@@ -1233,10 +1269,17 @@
       "OriginalItemSpec": "wwwroot\\duende-logo.svg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\favicon.ico",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/favicon.ico",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1252,10 +1295,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\js\\signin-redirect.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/js/signin-redirect.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "js/signin-redirect.js",
       "AssetKind": "All",
@@ -1271,10 +1321,17 @@
       "OriginalItemSpec": "wwwroot\\js\\signin-redirect.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\js\\signout-redirect.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/js/signout-redirect.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "js/signout-redirect.js",
       "AssetKind": "All",
@@ -1290,10 +1347,17 @@
       "OriginalItemSpec": "wwwroot\\js\\signout-redirect.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1309,10 +1373,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1328,10 +1399,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1347,10 +1425,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1451,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1385,10 +1477,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1404,10 +1503,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1423,10 +1529,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1555,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1461,10 +1581,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1480,10 +1607,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1499,10 +1633,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1659,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1537,10 +1685,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1556,10 +1711,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1575,10 +1737,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1594,10 +1763,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1613,10 +1789,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1632,10 +1815,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1651,10 +1841,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1670,10 +1867,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/LICENSE",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1689,10 +1893,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap\\README.md",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap/README.md",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap/README.md",
       "AssetKind": "All",
@@ -1708,10 +1919,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\README.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.css",
       "AssetKind": "All",
@@ -1727,10 +1945,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css",
       "AssetKind": "All",
@@ -1746,10 +1971,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.eot",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -1765,10 +1997,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.svg",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -1784,10 +2023,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.ttf",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -1803,10 +2049,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -1822,10 +2075,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff2",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -1841,10 +2101,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/LICENSE",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/LICENSE",
       "AssetKind": "All",
@@ -1860,10 +2127,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.css",
       "AssetKind": "All",
@@ -1879,10 +2153,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.less",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.less",
       "AssetKind": "All",
@@ -1898,10 +2179,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css",
       "AssetKind": "All",
@@ -1917,10 +2205,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1936,10 +2231,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1955,10 +2257,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1974,10 +2283,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -1993,10 +2309,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -2012,10 +2335,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -2031,10 +2361,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2050,10 +2387,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\lib\\jquery\\README.md",
       "SourceId": "IdentityService",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\IdentityService\\wwwroot\\",
+=======
+      "Identity": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/lib/jquery/README.md",
+      "SourceId": "IdentityService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmadasroruddin/Development/Auction/src/IdentityService/wwwroot/",
+>>>>>>> de0e0fe21b079c5cdca2fd971a8788d48fa90412
       "BasePath": "_content/IdentityService",
       "RelativePath": "lib/jquery/README.md",
       "AssetKind": "All",

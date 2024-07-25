@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aH2csjeHkYLHqsojoSb3UzTySnnBTDgYlmNl894as/buOLmBGiDdKX1oG/QBF6chHHoChCHoVr0Dn/3UqFdlQQ==",
+  "dgSpecHash": "58DBt23kBSA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\SearchService\\SearchService.csproj",
   "expectedPackageFiles": [
@@ -52,5 +52,12 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\SearchService\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

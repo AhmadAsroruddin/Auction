@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "J2IeiJa4NkVZrS1wStVPfNsk7p32sYzTOOC4f1PWeHNf7rIubByo/OKtyRGjn0pDRy8jJcsrJQU+wGtO50SBig==",
+  "dgSpecHash": "HeHslpWiFIY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\Contracts\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

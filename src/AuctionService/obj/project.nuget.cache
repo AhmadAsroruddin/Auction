@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ox/pLLb5pZcpQX3MCNRKmZYQ+os+GfXps+38TXE0/rGOtdPIFLki04aRfs7bYugRGeCtYDQA3/NdsjZskybQrQ==",
+  "dgSpecHash": "qEWG9257DTs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\AuctionService\\AuctionService.csproj",
   "expectedPackageFiles": [
@@ -68,5 +68,12 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\Documents\\Dotnet\\Auction\\src\\AuctionService\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
